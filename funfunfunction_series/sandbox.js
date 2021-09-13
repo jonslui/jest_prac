@@ -11,4 +11,4 @@ const response =
     console.log(responseJSON[0].address)
   })
 
-response 
+response
