@@ -1,0 +1,14 @@
+{
+  "name": "array_analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_analysis.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
+}
